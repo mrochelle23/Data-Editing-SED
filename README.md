@@ -89,10 +89,3 @@ An example dataset (`marvel-small.csv`) has been included in the repository for 
 To test the correctness of your `sed` script:
 - Compare the modified `marvel-small.csv` against the expected output provided above.
 - Ensure no errors are thrown during execution.
-
-## License
-This project uses data from FiveThirtyEight under the [CC4.0 license](https://creativecommons.org/licenses/by/4.0/). Ensure proper attribution when using the dataset.
-
----
-
-Let me know if you'd like additional edits or enhancements!
