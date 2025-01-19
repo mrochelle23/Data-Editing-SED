@@ -1,4 +1,4 @@
-# Comic Characters Dataset Editor
+# Comic Characters Dataset Editor With SED
 
 ## Overview
 This project involves creating a `sed` script to perform specific transformations on a dataset containing information about Marvel comic characters. The dataset is obtained from FiveThirtyEight's data repository under the CC4.0 license. 
